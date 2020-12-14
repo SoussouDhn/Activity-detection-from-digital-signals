@@ -28,6 +28,8 @@ The following information is also available:
 - real classes (values ​​between 1 and 6): labels.txt,
 - identifiers of the people who carried out the experiments (between 1 and 30): id.txt,
 
+The data.txt, data2.txt, labels.txt and id.txt data files can be downloaded at http://allousame.free.fr/mlds.
+
 References
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz (2012). Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria- Gasteiz, Spain.
 [2] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz (2013). A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges.
